@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<product>
+<iphone>
+   <title>iphoene11</title>
+   <prise>$100-$700</prise>
+   <discription1>All-screen OLED display¹ with ProMotion</discription1>
+   <discription2>Pro camera system</discription2>
+   <discription3>A15 Bionic chip</discription3>
+</iphone>
+<watch>
+   <title>apple</title>
+   <prise>from $199</prise>
+   <discription1>Unlock your Mac
+   just by wearing
+   your watch.
+   </discription1>
+   <discription2>Always-On Retina display</discription2>
+</watch>
+
+</product>
